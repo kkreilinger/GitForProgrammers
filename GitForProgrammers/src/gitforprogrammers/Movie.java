@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package gitforprogrammers;
 
-/**
- *
- * @author kkrei
- */
+import java.util.ArrayList;
+
 public class Movie {
-    
+    String title;
+    ArrayList<String> actors = new ArrayList<>();
 }
